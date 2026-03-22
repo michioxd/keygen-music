@@ -380,10 +380,12 @@ function normalizePath(path: string) {
 }
 
 function generateHtmlIndex(tracks: KeygenMusicIndex[]) {
-  const rows = tracks.map(
-    (track) =>
-      `<tr><td><a href="${escapeHtml(track.path)}">${escapeHtml(track.title)}</a></td><td>${escapeHtml(track.trackTitle)}</td><td>${escapeHtml(track.artist ?? "-")}</td><td>${escapeHtml(track.tracker)}</td><td>${escapeHtml(track.fileExtension)}</td><td>${track.size}</td></tr>`,
-  );
+  const rows = tracks
+    .map(
+      (track) =>
+        `<tr><td><a href="${escapeHtml(track.path)}">${escapeHtml(track.title)}</a></td><td>${escapeHtml(track.trackTitle)}</td><td>${escapeHtml(track.artist ?? "-")}</td><td>${escapeHtml(track.tracker)}</td><td>${escapeHtml(track.fileExtension)}</td><td>${track.size}</td></tr>`,
+    )
+    .join("");
 
   return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1"><title>keygen-music index</title></head><body style="font-family: system-ui, sans-serif; line-height: 1.5;"><h1><a href="https://github.com/michioxd/keygen-music">keygen-music index</a></h1><p>Total tracks: ${tracks.length}. For <a href="https://michioxd.github.io/nyantracker">nyantracker player</a></p><table border="1" cellspacing="0" cellpadding="4"><thead><tr><th>Title</th><th>Track title</th><th>Artist</th><th>Tracker</th><th>Ext</th><th>Size</th></tr></thead><tbody>${rows}</tbody></table></body></html>`;
 }
