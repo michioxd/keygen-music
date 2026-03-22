@@ -255,7 +255,7 @@ async function createTrackIndex(filePath: string): Promise<KeygenMusicIndex> {
 }
 
 function parseFileName(fileName: string, folderName: string) {
-  const prefixed = /^(?<artist>.+?)\s*-\s*(?<title>.+)$/u.exec(fileName);
+  const prefixed = /^(?<artist>.+)\s+-\s+(?<title>.+)$/u.exec(fileName);
   const parsedArtist = cleanupArtist(prefixed?.groups?.artist);
   const parsedTitle = cleanupTitle(prefixed?.groups?.title ?? fileName);
   const fallbackArtist =

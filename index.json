@@ -10,9 +10,9 @@
   },
   {
     "path": "music/!Others/-nelly- - ChemBioOffice Ultra 13.0 Suite crk.mod",
-    "title": "- ChemBioOffice Ultra 13",
+    "title": "ChemBioOffice Ultra 13",
     "trackTitle": "turtle race !!!",
-    "artist": "-nelly",
+    "artist": "-nelly-",
     "tracker": "ProTracker",
     "size": 18314,
     "fileExtension": "mod"
@@ -271,9 +271,9 @@
   },
   {
     "path": "music/!Others/Ali-Dbg - Tvalx Products crk.xm",
-    "title": "Dbg - Tvalx Products",
+    "title": "Tvalx Products",
     "trackTitle": "Oodi Amrtanille edit",
-    "artist": "Ali",
+    "artist": "Ali-Dbg",
     "tracker": "FastTracker 2",
     "size": 26737,
     "fileExtension": "xm"
@@ -523,9 +523,9 @@
   },
   {
     "path": "music/!Others/arctic-loop - Steinberg Dcota 1.0 installer.mp3",
-    "title": "loop - Steinberg Dcota 1",
+    "title": "Steinberg Dcota 1",
     "trackTitle": "Unknown",
-    "artist": "arctic",
+    "artist": "arctic-loop",
     "tracker": "MPEG",
     "size": 240609,
     "fileExtension": "mp3"
@@ -649,9 +649,9 @@
   },
   {
     "path": "music/!Others/Bad Karma - UFO - Enemy Unknown AGA intro.mod",
-    "title": "UFO - Enemy Unknown AGA",
+    "title": "Enemy Unknown AGA",
     "trackTitle": "sid",
-    "artist": "Bad Karma",
+    "artist": "Bad Karma - UFO",
     "tracker": "ProTracker",
     "size": 15454,
     "fileExtension": "mod"
@@ -946,9 +946,8 @@
   },
   {
     "path": "music/!Others/CASTAWAY FREELANCERS-13th Skull kg_2.xm",
-    "title": "13th Skull",
+    "title": "CASTAWAY FREELANCERS-13th Skull",
     "trackTitle": "c64 music 1",
-    "artist": "CASTAWAY FREELANCERS",
     "tracker": "FastTracker 2",
     "size": 74666,
     "fileExtension": "xm"
@@ -1665,9 +1664,9 @@
   },
   {
     "path": "music/!Others/DYNASTY - Autobahn Total - Die Verfolgungsjagd +2 trn.mod",
-    "title": "Autobahn Total - Die Verfolgungsjagd",
+    "title": "Die Verfolgungsjagd",
     "trackTitle": "pullover",
-    "artist": "DYNASTY",
+    "artist": "DYNASTY - Autobahn Total",
     "tracker": "ProTracker",
     "size": 15826,
     "fileExtension": "mod"
@@ -2187,18 +2186,18 @@
   },
   {
     "path": "music/!Others/G-K - RED Patchers Skin crk.mod",
-    "title": "K - RED Patchers Skin",
+    "title": "RED Patchers Skin",
     "trackTitle": "funland",
-    "artist": "G",
+    "artist": "G-K",
     "tracker": "ProTracker",
     "size": 37204,
     "fileExtension": "mod"
   },
   {
     "path": "music/!Others/G-K - Smart Install Maker 5.2 crk.mod",
-    "title": "K - Smart Install Maker 5",
+    "title": "Smart Install Maker 5",
     "trackTitle": "welcome",
-    "artist": "G",
+    "artist": "G-K",
     "tracker": "ProTracker",
     "size": 11988,
     "fileExtension": "mod"
@@ -2358,9 +2357,9 @@
   },
   {
     "path": "music/!Others/GR-CRC - Convert X to DVD 4.0.10.324 crk.xm",
-    "title": "CRC - Convert X to DVD 4.0",
+    "title": "Convert X to DVD 4.0",
     "trackTitle": "forced motivation",
-    "artist": "GR",
+    "artist": "GR-CRC",
     "tracker": "FastTracker 2",
     "size": 47146,
     "fileExtension": "xm"
@@ -2538,9 +2537,9 @@
   },
   {
     "path": "music/!Others/HYBRiD - F22 - Air Dominance Fighte installer.mod",
-    "title": "F22 - Air Dominance Fighte",
+    "title": "Air Dominance Fighte",
     "trackTitle": "break dream",
-    "artist": "HYBRiD",
+    "artist": "HYBRiD - F22",
     "tracker": "ProTracker",
     "size": 42184,
     "fileExtension": "mod"
@@ -3447,9 +3446,8 @@
   },
   {
     "path": "music/!Others/MEGAHERTZ-SmartFTP x32 4.x crk_3.xm",
-    "title": "SmartFTP x32 4",
+    "title": "MEGAHERTZ-SmartFTP x32 4",
     "trackTitle": "1812sampled",
-    "artist": "MEGAHERTZ",
     "tracker": "FastTracker 2",
     "size": 62720,
     "fileExtension": "xm"
@@ -4716,27 +4714,27 @@
   },
   {
     "path": "music/!Others/RL-Team - Alcohol1201.9.5.2802 crk.xm",
-    "title": "Team - Alcohol1201.9",
+    "title": "Alcohol1201.9",
     "trackTitle": "Sun star (feat KINO)",
-    "artist": "RL",
+    "artist": "RL-Team",
     "tracker": "FastTracker 2",
     "size": 28802,
     "fileExtension": "xm"
   },
   {
     "path": "music/!Others/RL-Team - HyperSnap 6.21.04 crk.xm",
-    "title": "Team - HyperSnap 6",
+    "title": "HyperSnap 6",
     "trackTitle": "Subsonic Seasons",
-    "artist": "RL",
+    "artist": "RL-Team",
     "tracker": "FastTracker 2",
     "size": 549855,
     "fileExtension": "xm"
   },
   {
     "path": "music/!Others/RmK-FreE - IDM 6.x.x crk.xm",
-    "title": "FreE - IDM 6",
+    "title": "IDM 6",
     "trackTitle": "Unknown",
-    "artist": "RmK",
+    "artist": "RmK-FreE",
     "tracker": "FastTracker 2",
     "size": 2959397,
     "fileExtension": "xm"
@@ -5507,9 +5505,8 @@
   },
   {
     "path": "music/!Others/THG-Macromedia Flash MX 6.0 kg.xm",
-    "title": "Macromedia Flash MX 6",
+    "title": "THG-Macromedia Flash MX 6",
     "trackTitle": "yes, we love",
-    "artist": "THG",
     "tracker": "FastTracker 2",
     "size": 11627,
     "fileExtension": "xm"
@@ -6281,36 +6278,36 @@
   },
   {
     "path": "music/!Others/WURST-WaR - Der Getraenkeshop No-CD crk.xm",
-    "title": "WaR - Der Getraenkeshop No-CD",
+    "title": "Der Getraenkeshop No-CD",
     "trackTitle": "KnallKacken",
-    "artist": "WURST",
+    "artist": "WURST-WaR",
     "tracker": "FastTracker 2",
     "size": 869551,
     "fileExtension": "xm"
   },
   {
     "path": "music/!Others/X-FORCE - Autodesk 2013 Products kg.ym",
-    "title": "FORCE - Autodesk 2013 Products",
+    "title": "Autodesk 2013 Products",
     "trackTitle": "Unknown",
-    "artist": "X",
+    "artist": "X-FORCE",
     "tracker": "Atari YM",
     "size": 4186,
     "fileExtension": "ym"
   },
   {
     "path": "music/!Others/X-FORCE - VMware ThinApp 4.0.0.2200 kg.xm",
-    "title": "FORCE - VMware ThinApp 4.0",
+    "title": "VMware ThinApp 4.0",
     "trackTitle": "de tre musketerer !",
-    "artist": "X",
+    "artist": "X-FORCE",
     "tracker": "FastTracker 2",
     "size": 28298,
     "fileExtension": "xm"
   },
   {
     "path": "music/!Others/X-KRYO - Maestro Gold 2009 crk.xm",
-    "title": "KRYO - Maestro Gold 2009",
+    "title": "Maestro Gold 2009",
     "trackTitle": "Flashback",
-    "artist": "X",
+    "artist": "X-KRYO",
     "tracker": "FastTracker 2",
     "size": 313570,
     "fileExtension": "xm"
@@ -6668,9 +6665,9 @@
   },
   {
     "path": "music/ACME/ACME - (Melboorn) - PC Flanc - Who Easy kg.mod",
-    "title": "(Melboorn) - PC Flanc - Who Easy",
+    "title": "Who Easy",
     "trackTitle": "monday",
-    "artist": "ACME",
+    "artist": "ACME - (Melboorn) - PC Flanc",
     "tracker": "ProTracker",
     "size": 15960,
     "fileExtension": "mod"
@@ -7352,7 +7349,7 @@
   },
   {
     "path": "music/AGAiN/AGAiN- Total Commander Pro 6.01 crk_converted.xm",
-    "title": "Total Commander Pro 6",
+    "title": "AGAiN- Total Commander Pro 6",
     "trackTitle": "Unknown",
     "artist": "AGAiN",
     "tracker": "FastTracker 2",
@@ -7460,207 +7457,207 @@
   },
   {
     "path": "music/AH-Team/AH-Team - Accent Office Password Recovery 2.12 (rus) crk.xm",
-    "title": "Team - Accent Office Password Recovery 2",
+    "title": "Accent Office Password Recovery 2",
     "trackTitle": "atomic keys",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 73682,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - Analiz Chastnyh Obyavleniy Auto 1.85 kg.mid",
-    "title": "Team - Analiz Chastnyh Obyavleniy Auto 1",
+    "title": "Analiz Chastnyh Obyavleniy Auto 1",
     "trackTitle": "Unknown",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "MIDI",
     "size": 21387,
     "fileExtension": "mid"
   },
   {
     "path": "music/AH-Team/AH-Team - Backup To CD-RW Made Simple 5.1.86 crk.xm",
-    "title": "Team - Backup To CD-RW Made Simple 5",
+    "title": "Backup To CD-RW Made Simple 5",
     "trackTitle": "nagual dance2",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 175281,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - Belltech Greeting Cards Designer 2.0 crk.xm",
-    "title": "Team - Belltech Greeting Cards Designer 2",
+    "title": "Belltech Greeting Cards Designer 2",
     "trackTitle": "RSI",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 46516,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - CloneCD 5.0.4.5 crk.xm",
-    "title": "Team - CloneCD 5.0",
+    "title": "CloneCD 5.0",
     "trackTitle": "spacetravellers",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 75062,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - CoffeeCup Direct FTP 6.2.0.62 crk.xm",
-    "title": "Team - CoffeeCup Direct FTP 6.2",
+    "title": "CoffeeCup Direct FTP 6.2",
     "trackTitle": "psycostatic",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 81739,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - Cubis Gold 2 crk.xm",
-    "title": "Team - Cubis Gold 2",
+    "title": "Cubis Gold 2",
     "trackTitle": "mod",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 40609,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - GameHouse Platypus crk.xm",
-    "title": "Team - GameHouse Platypus",
+    "title": "GameHouse Platypus",
     "trackTitle": "theme4",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 103552,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - Help&Manual 3.5.2 crk.xm",
-    "title": "Team - Help&Manual 3",
+    "title": "Help&Manual 3",
     "trackTitle": "Ransid Techno",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 83307,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - HTML Builder Professional 1.0 crk.xm",
-    "title": "Team - HTML Builder Professional 1",
+    "title": "HTML Builder Professional 1",
     "trackTitle": "atomix remix",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 43880,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - Intelcore Word Password Recovery 1.0h crk.xm",
-    "title": "Team - Intelcore Word Password Recovery 1",
+    "title": "Intelcore Word Password Recovery 1",
     "trackTitle": "just before",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 26436,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - Magic Ball 2 crk.xm",
-    "title": "Team - Magic Ball 2",
+    "title": "Magic Ball 2",
     "trackTitle": "## shine in the ##",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 76158,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - MassEmail crk.mid",
-    "title": "Team - MassEmail",
+    "title": "MassEmail",
     "trackTitle": "Unknown",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "MIDI",
     "size": 41844,
     "fileExtension": "mid"
   },
   {
     "path": "music/AH-Team/AH-Team - MasterStamp 1.1 crk.xm",
-    "title": "Team - MasterStamp 1",
+    "title": "MasterStamp 1",
     "trackTitle": "Unknown",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 286588,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - Page Promoter 6.3 crk.xm",
-    "title": "Team - Page Promoter 6",
+    "title": "Page Promoter 6",
     "trackTitle": "yet another discoism",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 65157,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - Quick Unpack 0.7.xm",
-    "title": "Team - Quick Unpack 0",
+    "title": "Quick Unpack 0",
     "trackTitle": "Rainbow",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 10599,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - Quick Unpack 1.0 beta3.xm",
-    "title": "Team - Quick Unpack 1",
+    "title": "Quick Unpack 1",
     "trackTitle": "team europe",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 42947,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - RAR Password Recovery 1.1 RC14 crk.xm",
-    "title": "Team - RAR Password Recovery 1",
+    "title": "RAR Password Recovery 1",
     "trackTitle": "zoolrave",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 54912,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - Reget Deluxe 4.1.244 crk.xm",
-    "title": "Team - Reget Deluxe 4",
+    "title": "Reget Deluxe 4",
     "trackTitle": "BILOU AMBIENT 3",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 35458,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - Star Wars 3D Screensaver crk.xm",
-    "title": "Team - Star Wars 3D Screensaver",
+    "title": "Star Wars 3D Screensaver",
     "trackTitle": "axel f / turrican",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 53575,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - The Bat! 2.11.02 crk.xm",
-    "title": "Team - The Bat! 2",
+    "title": "The Bat! 2",
     "trackTitle": "Unknown",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 61796,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - UltraFXP 1.07 crk.xm",
-    "title": "Team - UltraFXP 1",
+    "title": "UltraFXP 1",
     "trackTitle": "Unknown",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 112279,
     "fileExtension": "xm"
   },
   {
     "path": "music/AH-Team/AH-Team - UltraISO 7.x-9.x crk.xm",
-    "title": "Team - UltraISO 7",
+    "title": "UltraISO 7",
     "trackTitle": "The Rings",
-    "artist": "AH",
+    "artist": "AH-Team",
     "tracker": "FastTracker 2",
     "size": 265933,
     "fileExtension": "xm"
@@ -8504,9 +8501,9 @@
   },
   {
     "path": "music/AoRE/AoRE - My Driver 1.xx - 5.xx kg.v2m",
-    "title": "My Driver 1",
+    "title": "5",
     "trackTitle": "Unknown",
-    "artist": "AoRE",
+    "artist": "AoRE - My Driver 1.xx",
     "tracker": "Farbrausch V2",
     "size": 14303,
     "fileExtension": "v2m"
@@ -9854,9 +9851,9 @@
   },
   {
     "path": "music/BACKLASH/BACKLASH - Lotus III - The Ultimate Challenge +5 trn.mod",
-    "title": "Lotus III - The Ultimate Challenge",
+    "title": "The Ultimate Challenge",
     "trackTitle": "trainermusic3",
-    "artist": "BACKLASH",
+    "artist": "BACKLASH - Lotus III",
     "tracker": "ProTracker",
     "size": 11846,
     "fileExtension": "mod"
@@ -10979,9 +10976,9 @@
   },
   {
     "path": "music/BReWErS/BReWErS - Conflict - Denied Ops +3 trn.xm",
-    "title": "Conflict - Denied Ops",
+    "title": "Denied Ops",
     "trackTitle": "Graduation",
-    "artist": "BReWErS",
+    "artist": "BReWErS - Conflict",
     "tracker": "FastTracker 2",
     "size": 38459,
     "fileExtension": "xm"
@@ -14318,9 +14315,9 @@
   },
   {
     "path": "music/DEViANCE/DEViANCE - X-Men Legends 2 - Rise Of Apocalypse intro.xm",
-    "title": "X-Men Legends 2 - Rise Of Apocalypse",
+    "title": "Rise Of Apocalypse",
     "trackTitle": "Demios [Sanxion7]",
-    "artist": "DEViANCE",
+    "artist": "DEViANCE - X-Men Legends 2",
     "tracker": "FastTracker 2",
     "size": 31184,
     "fileExtension": "xm"
@@ -17945,9 +17942,9 @@
   },
   {
     "path": "music/FFF/FFF - ACDSee Pro Photo Manager 8.1 build 99 - Multilangue crk.it",
-    "title": "ACDSee Pro Photo Manager 8",
+    "title": "Multilangue",
     "trackTitle": "4MK REHEVAE NAINEN v2",
-    "artist": "FFF",
+    "artist": "FFF - ACDSee Pro Photo Manager 8.1 build 99",
     "tracker": "Impulse Tracker",
     "size": 36679,
     "fileExtension": "it"
@@ -18071,9 +18068,9 @@
   },
   {
     "path": "music/FFF/FFF - All DVDIdle Products - Feb. 2005 keygen.xm",
-    "title": "All DVDIdle Products - Feb",
+    "title": "Feb",
     "trackTitle": "ST-Style",
-    "artist": "FFF",
+    "artist": "FFF - All DVDIdle Products",
     "tracker": "FastTracker 2",
     "size": 28659,
     "fileExtension": "xm"
@@ -19934,9 +19931,9 @@
   },
   {
     "path": "music/FFF/FFF - R.A. - HamsterBall 1.1R trn.xm",
-    "title": "R.A",
+    "title": "HamsterBall 1",
     "trackTitle": "oh 2149 sexy thing!",
-    "artist": "FFF",
+    "artist": "FFF - R.A.",
     "tracker": "FastTracker 2",
     "size": 42940,
     "fileExtension": "xm"
@@ -20609,36 +20606,36 @@
   },
   {
     "path": "music/FiRELiGHT/FiRELiGHT - The Chosen - Well Of Souls +12 trn_1.xm",
-    "title": "The Chosen - Well Of Souls +12",
+    "title": "Well Of Souls +12",
     "trackTitle": "lunchip",
-    "artist": "FiRELiGHT",
+    "artist": "FiRELiGHT - The Chosen",
     "tracker": "FastTracker 2",
     "size": 29413,
     "fileExtension": "xm"
   },
   {
     "path": "music/FiRELiGHT/FiRELiGHT - The Chosen - Well Of Souls +12 trn_2.it",
-    "title": "The Chosen - Well Of Souls +12",
+    "title": "Well Of Souls +12",
     "trackTitle": "resign1",
-    "artist": "FiRELiGHT",
+    "artist": "FiRELiGHT - The Chosen",
     "tracker": "Impulse Tracker",
     "size": 12481,
     "fileExtension": "it"
   },
   {
     "path": "music/FiRELiGHT/FiRELiGHT - The Chosen - Well Of Souls +12 trn_3.mod",
-    "title": "The Chosen - Well Of Souls +12",
+    "title": "Well Of Souls +12",
     "trackTitle": "95 chipper",
-    "artist": "FiRELiGHT",
+    "artist": "FiRELiGHT - The Chosen",
     "tracker": "ProTracker",
     "size": 17998,
     "fileExtension": "mod"
   },
   {
     "path": "music/FiRELiGHT/FiRELiGHT - The Chosen - Well Of Souls +12 trn_4.it",
-    "title": "The Chosen - Well Of Souls +12",
+    "title": "Well Of Souls +12",
     "trackTitle": "Sagolik sås",
-    "artist": "FiRELiGHT",
+    "artist": "FiRELiGHT - The Chosen",
     "tracker": "Impulse Tracker",
     "size": 29327,
     "fileExtension": "it"
@@ -21617,9 +21614,9 @@
   },
   {
     "path": "music/h4x0r/h4x0r - ArcaniA - Gothic 4 Demo 1.0 +7 trn.xm",
-    "title": "ArcaniA - Gothic 4 Demo 1",
+    "title": "Gothic 4 Demo 1",
     "trackTitle": "ultrajakob",
-    "artist": "h4x0r",
+    "artist": "h4x0r - ArcaniA",
     "tracker": "FastTracker 2",
     "size": 26319,
     "fileExtension": "xm"
@@ -23606,9 +23603,9 @@
   },
   {
     "path": "music/HoG/HoG - Lara Croft - Guardian of Light 1.0 +4 trn.xm",
-    "title": "Lara Croft - Guardian of Light 1",
+    "title": "Guardian of Light 1",
     "trackTitle": "Riding High",
-    "artist": "HoG",
+    "artist": "HoG - Lara Croft",
     "tracker": "FastTracker 2",
     "size": 66901,
     "fileExtension": "xm"
@@ -23840,9 +23837,9 @@
   },
   {
     "path": "music/HoG/HoG - Warcraft III - Reign of Chaos 1.24e +4 trn.xm",
-    "title": "Warcraft III - Reign of Chaos 1",
+    "title": "Reign of Chaos 1",
     "trackTitle": "Warcraft II",
-    "artist": "HoG",
+    "artist": "HoG - Warcraft III",
     "tracker": "FastTracker 2",
     "size": 485159,
     "fileExtension": "xm"
@@ -24002,18 +23999,18 @@
   },
   {
     "path": "music/HOODLUM/HOODLUM - GTA - San Andrea intro_original.fc14",
-    "title": "GTA - San Andrea intro original",
+    "title": "San Andrea intro original",
     "trackTitle": "Unknown",
-    "artist": "HOODLUM",
+    "artist": "HOODLUM - GTA",
     "tracker": "Future Composer 1.4",
     "size": 9902,
     "fileExtension": "fc14"
   },
   {
     "path": "music/HOODLUM/HOODLUM - GTA - San Andrea intro.mod",
-    "title": "GTA - San Andrea",
+    "title": "San Andrea",
     "trackTitle": "jesper k",
-    "artist": "HOODLUM",
+    "artist": "HOODLUM - GTA",
     "tracker": "ProTracker",
     "size": 112106,
     "fileExtension": "mod"
@@ -27089,9 +27086,9 @@
   },
   {
     "path": "music/Kindly/Kindly - Another World - Heart of The Alien Redu installer.mod",
-    "title": "Another World - Heart of The Alien Redu",
+    "title": "Heart of The Alien Redu",
     "trackTitle": "bacongrytor",
-    "artist": "Kindly",
+    "artist": "Kindly - Another World",
     "tracker": "ProTracker",
     "size": 18586,
     "fileExtension": "mod"
@@ -28475,9 +28472,9 @@
   },
   {
     "path": "music/Lz0/Lz0 - ABC DrawingSchool I - VI kg.xm",
-    "title": "ABC DrawingSchool I - VI",
+    "title": "VI",
     "trackTitle": "Unknown",
-    "artist": "Lz0",
+    "artist": "Lz0 - ABC DrawingSchool I",
     "tracker": "FastTracker 2",
     "size": 25772,
     "fileExtension": "xm"
@@ -28952,9 +28949,9 @@
   },
   {
     "path": "music/METROiD/METROiD - Grand Theft Auto - San Andreas +11 trn.xm",
-    "title": "Grand Theft Auto - San Andreas",
+    "title": "San Andreas",
     "trackTitle": "64-Mania",
-    "artist": "METROiD",
+    "artist": "METROiD - Grand Theft Auto",
     "tracker": "FastTracker 2",
     "size": 8851,
     "fileExtension": "xm"
@@ -29015,18 +29012,18 @@
   },
   {
     "path": "music/METROiD/METROiD - The Suffering - Ties That Bind +4 trn.xm",
-    "title": "The Suffering - Ties That Bind",
+    "title": "Ties That Bind",
     "trackTitle": "dragonfly",
-    "artist": "METROiD",
+    "artist": "METROiD - The Suffering",
     "tracker": "FastTracker 2",
     "size": 32924,
     "fileExtension": "xm"
   },
   {
     "path": "music/METROiD/METROiD - Tomb Raider - Legend +3 trn.xm",
-    "title": "Tomb Raider - Legend",
+    "title": "Legend",
     "trackTitle": "digital feelings",
-    "artist": "METROiD",
+    "artist": "METROiD - Tomb Raider",
     "tracker": "FastTracker 2",
     "size": 23303,
     "fileExtension": "xm"
@@ -29510,18 +29507,18 @@
   },
   {
     "path": "music/MYTH/MYTH - Star Trek Voyager - Elite Force installer.xm",
-    "title": "Star Trek Voyager - Elite Force",
+    "title": "Elite Force",
     "trackTitle": "Molecular Transport",
-    "artist": "MYTH",
+    "artist": "MYTH - Star Trek Voyager",
     "tracker": "FastTracker 2",
     "size": 981131,
     "fileExtension": "xm"
   },
   {
     "path": "music/MYTH/MYTH - Startrek - Klingon Academ installer.s3m",
-    "title": "Startrek - Klingon Academ",
+    "title": "Klingon Academ",
     "trackTitle": "War in the Middle Earth -Rm",
-    "artist": "MYTH",
+    "artist": "MYTH - Startrek",
     "tracker": "Scream Tracker 3",
     "size": 280694,
     "fileExtension": "s3m"
@@ -30617,9 +30614,9 @@
   },
   {
     "path": "music/PANiCDOX/PANiCDOX - Lineage 2 - The KamaelCT intro.mod",
-    "title": "Lineage 2 - The KamaelCT",
+    "title": "The KamaelCT",
     "trackTitle": "Death",
-    "artist": "PANiCDOX",
+    "artist": "PANiCDOX - Lineage 2",
     "tracker": "ProTracker",
     "size": 39356,
     "fileExtension": "mod"
@@ -34199,9 +34196,9 @@
   },
   {
     "path": "music/Reloaded/RELOADED - S.C.A.R. - Squadra Corse Alfa Rome intro.xm",
-    "title": "S.C.A",
+    "title": "Squadra Corse Alfa Rome",
     "trackTitle": "reloaded",
-    "artist": "RELOADED",
+    "artist": "RELOADED - S.C.A.R.",
     "tracker": "FastTracker 2",
     "size": 69648,
     "fileExtension": "xm"
@@ -35243,90 +35240,90 @@
   },
   {
     "path": "music/RU-BOARD/Ru-Board - ACDSee Ultimate crk.nsf",
-    "title": "Board - ACDSee Ultimate",
+    "title": "ACDSee Ultimate",
     "trackTitle": "Unknown",
-    "artist": "Ru",
+    "artist": "Ru-Board",
     "tracker": "Nintendo Sound Format",
     "size": 36992,
     "fileExtension": "nsf"
   },
   {
     "path": "music/RU-BOARD/RU-BOARD - Aid4Mail 2.x crk.xm",
-    "title": "BOARD - Aid4Mail 2",
+    "title": "Aid4Mail 2",
     "trackTitle": "sheepl0l",
-    "artist": "RU",
+    "artist": "RU-BOARD",
     "tracker": "FastTracker 2",
     "size": 45873,
     "fileExtension": "xm"
   },
   {
     "path": "music/RU-BOARD/RU-BOARD - AOMEI Backupper Professinal 2.0 crk.sid",
-    "title": "BOARD - AOMEI Backupper Professinal 2",
+    "title": "AOMEI Backupper Professinal 2",
     "trackTitle": "Unknown",
-    "artist": "RU",
+    "artist": "RU-BOARD",
     "tracker": "SID",
     "size": 7850,
     "fileExtension": "sid"
   },
   {
     "path": "music/RU-BOARD/RU-BOARD - Dr.Batcher 2.x crk.xm",
-    "title": "BOARD - Dr",
+    "title": "Dr",
     "trackTitle": "Top Hat Ingame 2",
-    "artist": "RU",
+    "artist": "RU-BOARD",
     "tracker": "FastTracker 2",
     "size": 54363,
     "fileExtension": "xm"
   },
   {
     "path": "music/RU-BOARD/RU-BOARD - FolderSizes 6.1.61 crk.s3m",
-    "title": "BOARD - FolderSizes 6",
+    "title": "FolderSizes 6",
     "trackTitle": "Deep in her Eyes",
-    "artist": "RU",
+    "artist": "RU-BOARD",
     "tracker": "Scream Tracker 3",
     "size": 348491,
     "fileExtension": "s3m"
   },
   {
     "path": "music/RU-BOARD/Ru-Board - Nero 15 Platinum 16.0.02900 crk.spc",
-    "title": "Board - Nero 15 Platinum 16",
+    "title": "Nero 15 Platinum 16",
     "trackTitle": "Unknown",
-    "artist": "Ru",
+    "artist": "Ru-Board",
     "tracker": "SPC",
     "size": 66096,
     "fileExtension": "spc"
   },
   {
     "path": "music/RU-BOARD/RU-BOARD - Nero 2015 Platinum 16.0.02900 crk.nsf",
-    "title": "BOARD - Nero 2015 Platinum 16",
+    "title": "Nero 2015 Platinum 16",
     "trackTitle": "Unknown",
-    "artist": "RU",
+    "artist": "RU-BOARD",
     "tracker": "Nintendo Sound Format",
     "size": 17072,
     "fileExtension": "nsf"
   },
   {
     "path": "music/RU-BOARD/RU-BOARD - PowerISO 5.x crk.xm",
-    "title": "BOARD - PowerISO 5",
+    "title": "PowerISO 5",
     "trackTitle": "Piano on the Floor",
-    "artist": "RU",
+    "artist": "RU-BOARD",
     "tracker": "FastTracker 2",
     "size": 71287,
     "fileExtension": "xm"
   },
   {
     "path": "music/RU-BOARD/RU-BOARD - Total Uninstall Pro 5.9.1.1309 crk.mod",
-    "title": "BOARD - Total Uninstall Pro 5.9",
+    "title": "Total Uninstall Pro 5.9",
     "trackTitle": "popcorn",
-    "artist": "RU",
+    "artist": "RU-BOARD",
     "tracker": "ProTracker",
     "size": 61436,
     "fileExtension": "mod"
   },
   {
     "path": "music/RU-BOARD/RU-BOARD - WinRaR 4.11.x crk.xm",
-    "title": "BOARD - WinRaR 4",
+    "title": "WinRaR 4",
     "trackTitle": "Dans la rue",
-    "artist": "RU",
+    "artist": "RU-BOARD",
     "tracker": "FastTracker 2",
     "size": 87100,
     "fileExtension": "xm"
@@ -36575,9 +36572,9 @@
   },
   {
     "path": "music/SKiD ROW/SKiD ROW - Deus Ex - Human Revolution launcher.xm",
-    "title": "Deus Ex - Human Revolution",
+    "title": "Human Revolution",
     "trackTitle": "Unknown",
-    "artist": "SKiD ROW",
+    "artist": "SKiD ROW - Deus Ex",
     "tracker": "FastTracker 2",
     "size": 69196,
     "fileExtension": "xm"
@@ -38105,9 +38102,9 @@
   },
   {
     "path": "music/SnD/SnD - Nero v7 - All Product Keygen 1.0.xm",
-    "title": "Nero v7 - All Product Keygen 1",
+    "title": "All Product Keygen 1",
     "trackTitle": "Unknown",
-    "artist": "SnD",
+    "artist": "SnD - Nero v7",
     "tracker": "FastTracker 2",
     "size": 87456,
     "fileExtension": "xm"
@@ -48113,9 +48110,9 @@
   },
   {
     "path": "music/UNLEASHED/UNLEASHED - Bet On Soldier - Black Out Saigon +1 trn.xm",
-    "title": "Bet On Soldier - Black Out Saigon",
+    "title": "Black Out Saigon",
     "trackTitle": ":: tip of my tongue",
-    "artist": "UNLEASHED",
+    "artist": "UNLEASHED - Bet On Soldier",
     "tracker": "FastTracker 2",
     "size": 40627,
     "fileExtension": "xm"
@@ -48941,45 +48938,45 @@
   },
   {
     "path": "music/WDYL-WTN/WDYL-WTN - AddWeb Website Promoter 7.2.8.5 Pro kg.xm",
-    "title": "WTN - AddWeb Website Promoter 7.2",
+    "title": "AddWeb Website Promoter 7.2",
     "trackTitle": "TranScent Lite",
-    "artist": "WDYL",
+    "artist": "WDYL-WTN",
     "tracker": "FastTracker 2",
     "size": 43319,
     "fileExtension": "xm"
   },
   {
     "path": "music/WDYL-WTN/WDYL-WTN - Becky! Internet Mail 2.21.04 kg.xm",
-    "title": "WTN - Becky! Internet Mail 2",
+    "title": "Becky! Internet Mail 2",
     "trackTitle": "Fat Boys Clan",
-    "artist": "WDYL",
+    "artist": "WDYL-WTN",
     "tracker": "FastTracker 2",
     "size": 13073,
     "fileExtension": "xm"
   },
   {
     "path": "music/WDYL-WTN/WDYL-WTN - Loan Advisor 1.5 kg.xm",
-    "title": "WTN - Loan Advisor 1",
+    "title": "Loan Advisor 1",
     "trackTitle": "erika online",
-    "artist": "WDYL",
+    "artist": "WDYL-WTN",
     "tracker": "FastTracker 2",
     "size": 33149,
     "fileExtension": "xm"
   },
   {
     "path": "music/WDYL-WTN/WDYL-WTN - Xara3D 6 kg.xm",
-    "title": "WTN - Xara3D 6",
+    "title": "Xara3D 6",
     "trackTitle": "Unknown",
-    "artist": "WDYL",
+    "artist": "WDYL-WTN",
     "tracker": "FastTracker 2",
     "size": 15300,
     "fileExtension": "xm"
   },
   {
     "path": "music/WDYL-WTN/WDYL-WTN - XnView 1.80 kg.xm",
-    "title": "WTN - XnView 1",
+    "title": "XnView 1",
     "trackTitle": "world of chip",
-    "artist": "WDYL",
+    "artist": "WDYL-WTN",
     "tracker": "FastTracker 2",
     "size": 30299,
     "fileExtension": "xm"
