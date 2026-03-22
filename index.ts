@@ -40,6 +40,7 @@ const ROOT_DIR = dirname(fileURLToPath(import.meta.url));
 const MUSIC_DIR = resolve(ROOT_DIR, process.argv[2] ?? "music");
 const OUTPUT_PRETTY = resolve(ROOT_DIR, "index.json");
 const OUTPUT_MIN = resolve(ROOT_DIR, "index.min.json");
+const OUTPUT_HTML = resolve(ROOT_DIR, "index.html");
 
 const AUDIO_EXTENSIONS = new Set([
   ".669",
@@ -178,11 +179,13 @@ async function main() {
     "utf8",
   );
   await writeFile(OUTPUT_MIN, `${JSON.stringify(sortedTracks)}\n`, "utf8");
+  await writeFile(OUTPUT_HTML, generateHtmlIndex(sortedTracks), "utf8");
 
   console.log(`Took ${(Date.now() - CURRENT) / 1000}s to index music files.`);
   console.log(`Indexed ${sortedTracks.length} tracks.`);
   console.log(`Pretty output: ${relative(ROOT_DIR, OUTPUT_PRETTY)}`);
   console.log(`Minified output: ${relative(ROOT_DIR, OUTPUT_MIN)}`);
+  console.log(`HTML output: ${relative(ROOT_DIR, OUTPUT_HTML)}`);
 }
 
 async function loadOptionalParser() {
@@ -374,6 +377,59 @@ function normalizeTrackerName(value: string | undefined, extension: string) {
 
 function normalizePath(path: string) {
   return path.split(sep).join("/");
+}
+
+function generateHtmlIndex(tracks: KeygenMusicIndex[]) {
+  const rows = tracks
+    .map(
+      (track) => `    <tr>
+      <td><a href="${escapeHtml(track.path)}">${escapeHtml(track.title)}</a></td>
+      <td>${escapeHtml(track.trackTitle)}</td>
+      <td>${escapeHtml(track.artist ?? "-")}</td>
+      <td>${escapeHtml(track.tracker)}</td>
+      <td>${escapeHtml(track.fileExtension)}</td>
+      <td>${track.size}</td>
+    </tr>`,
+    )
+    .join("\n");
+
+  return `<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="color-scheme" content="light dark">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>keygen-music index</title>
+  </head>
+  <body style="font-family: system-ui, sans-serif; line-height: 1.5;">
+    <h1><a href="https://github.com/michioxd/keygen-music">keygen-music index</a></h1>
+    <p>Total tracks: ${tracks.length}</p>
+    <table border="1" cellspacing="0" cellpadding="4">
+      <thead>
+        <tr>
+          <th>Title</th>
+          <th>Track title</th>
+          <th>Artist</th>
+          <th>Tracker</th>
+          <th>Ext</th>
+          <th>Size</th>
+        </tr>
+      </thead>
+      <tbody>
+${rows}
+      </tbody>
+    </table>
+  </body>
+</html>
+`;
+}
+
+function escapeHtml(value: string) {
+  return value
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;");
 }
 
 async function mapWithConcurrency<T, U>(
